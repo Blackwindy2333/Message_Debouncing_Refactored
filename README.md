@@ -1,0 +1,2 @@
+# Message_Debouncing_Refactored
+为Maibot插件Message_Debouncing提供的Maibot高版本支持。
