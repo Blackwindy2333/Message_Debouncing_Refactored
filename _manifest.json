@@ -2,15 +2,15 @@
   "manifest_version": 2,
   "id": "local.message-debounce-rebuild",
   "name": "消息防抖合并",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "短时间内合并同一会话同一用户的连续消息，再交给 MaiBot 处理，减少断句触发和重复思考。",
   "author": {
-    "name": "MaiBot",
-    "url": "https://github.com/MaiM-with-u/MaiBot"
+    "name": "Blackwindy2333",
+    "url": "https://github.com/Blackwindy2333"
   },
   "license": "MIT",
   "urls": {
-    "repository": "https://github.com/MaiM-with-u/MaiBot"
+    "repository": "https://github.com/Blackwindy2333/Message_Debouncing_Refactored"
   },
   "host_application": {
     "min_version": "1.0.0",
