@@ -27,7 +27,7 @@
 
 ## 安装
 
-将 `Message_Debouncing_Rebuild` 文件夹放入 MaiBot 的 `plugins/` 目录下，启动 MaiBot 后插件会自动被发现和加载。也可以通过 WebUI 插件管理页面进行启用/禁用。
+将 `Message_Debouncing_Refactored` 文件夹放入 MaiBot 的 `plugins/` 目录下，启动 MaiBot 后插件会自动被发现和加载。也可以通过 WebUI 插件管理页面进行启用/禁用。
 
 ## 默认配置
 
